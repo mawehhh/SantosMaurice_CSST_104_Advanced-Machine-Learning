@@ -20,6 +20,24 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 
 # **Compilation of activities for the subject CSST 104**
 
+## Exercises
+1. <a href="Santos-Collab-Exer1-3A.ipynb">Exercise 1 - Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python using automata-lib</a>
+2. <a href="Santos-Collab-Exer2-3A.ipynb">Exercise 2 - Deterministic Finite Automata</a>
+3. <a href="Santos-Collab-Exer3-3A.ipynb">Exercise 3 - NFA to DFA conversion using Epsilon Closures and Subset Construction</a>
+4. <a href="Santos-Collab-Exer4-3A.ipynb">Exercise 4 - Pushdown Automation Diagram Generation in Pythin using graphViz</a>
+5. <a href="3A-SANTOS-EXER5.ipynb">Exercise 5 - Assessment Task 5: Bank Customer</a>
+6. <a href="3A-SANTOS-EXER6.ipynb">Exercise 6 - Logistic Regression Model</a>
+7. <a href="3A-SANTOS-EXER7.ipynb">Exercise 7 - Linear Regression Model</a>
+8. <a href="3A-SANTOS-EXER8.ipynb">Exercise 8 - Arima</a>
+
+## Activities
+1. <a href="Santos_Collab_Activity1_3A.ipynb">Activity 1 - Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python using automata-lib</a>
+2. <a href="Santos_Collab_Activity2_3A.ipynb">Activity 2 - Deterministic Finite Automata</a>
+
+## Midterm
+1. <a href="3A-SANTOS-MIDTERM.ipynb">Midterm Practical Exam using Logistic Regression Model and Linearl Regression Model</a>
+
+
 <a name="1"></a>
 # Introduction to Advanced Machine Learning
   Providing an overview of advanced machine learning techniques and their importance in contemporary data science and AI applications. It sets the stage for what students can expect to learn throughout the course.
